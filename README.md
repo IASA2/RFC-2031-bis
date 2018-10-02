@@ -1,2 +1,2 @@
 # RFC2031-bis
-Revision of RCC 2031
+Revision of RFC 2031
