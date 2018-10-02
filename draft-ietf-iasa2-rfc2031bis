@@ -164,7 +164,9 @@
 	      as a branch or division of ISOC for tax purposes. ISOC operates as a U.S. 501(c)(3) 
 	      not-for-profit organization, and was founded to support and promote the development 
 	      of the Internet as a global technical infrastructure, a resource to enrich 
-	      people’s lives, and a force for good in society.</t>
+	      people’s lives, and a force for good in society. Governing the relationship 
+	      between the IETF LLC and ISOC is an Operating Agreement, which was agreed to in 2018. 
+	      [REFERENCE NEEDED?]</t>
 	
 	<t>As a result of the creation of the IETF LLC, the IETF now has its own legal umbrella. This 
 		IETF LLC structure now covers the standards and standards process, including all IETF 
@@ -189,6 +191,11 @@
 	      not-for-profit organization, and was founded to support and promote the development 
 	      of the Internet as a global technical infrastructure, a resource to enrich 
 	      people’s lives, and a force for good in society.</t>
+	
+	<t>Under the terms of the ISOC - IETF LLC Operating Agreement, ISOC has agreed to provide some funding 
+		support for the IETF. But the IETF LLC will be responsible for creating and managing an annual 
+		operating budget for the IETF, as well as for fundraising, maintaining a bank account, managing 
+		the IETF Endowment, and so on.</t>
 
 </section>
 	
@@ -235,10 +242,14 @@
 </references>
     
 <references title="Informative References">
+	
+	&BCP78;
 	&RFC2031;
-	&I-D.hall-iasa2-struct;
 	&RFC4071;
 	&RFC4371;
+	&I-D.ietf-iasa2-struct;
+	&I-D.ietf-iasa2-trust-rationale;
+	
 </references>
 
 </back>
