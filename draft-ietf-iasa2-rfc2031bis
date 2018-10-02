@@ -4,7 +4,10 @@
 <!ENTITY RFC2031 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.2031.xml">
 <!ENTITY RFC4071 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.4071.xml">
 <!ENTITY RFC4371 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.4371.xml">
-<!ENTITY I-D.hall-iasa2-struct SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.hall-iasa2-struct.xml">
+<!ENTITY I-D.ietf-iasa2-struct SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.ietf-iasa2-struct.xml">
+<!ENTITY I-D.ietf-iasa2-trust-rationale SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.draft-ietf-iasa2-trust-rationale.xml">
+<!ENTITY I-D.ietf-iasa2-trust-update SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.draft-ietf-iasa2-trust-update.xml">
+<!ENTITY BCP78 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.BCP.78.xml">
 
 
 
@@ -99,7 +102,10 @@
 	
 </section>
     	
-<section anchor="boundary" title="Main boundary condition">
+<section title="Main Division of Responsibilities Between IETF and ISOC">
+
+	
+[**SECTION NOT UPDATED - STRAIGHT FROM OLD RFC**]
       
       <t>The IETF remains responsible for the development and quality of the
    Internet Standards. The ISOC will aid the IETF by facilitating legal
@@ -148,11 +154,7 @@
 	
 <section title="Ideological Relationship with ISOC">
 
-	<t>The IETF LLC was organized as a “disregarded entity” of ISOC. This means it operates 
-	      as a branch or division of ISOC for tax purposes. ISOC operates as a U.S. 501(c)(3) 
-	      not-for-profit organization, and was founded to support and promote the development 
-	      of the Internet as a global technical infrastructure, a resource to enrich 
-	      people’s lives, and a force for good in society.</t>
+	<t>TBD - touch on the alignment of ideology of the 2 orgs and their shared history</t>
 
 </section>
 	
@@ -164,14 +166,19 @@
 	      of the Internet as a global technical infrastructure, a resource to enrich 
 	      people’s lives, and a force for good in society.</t>
 	
-	<t>As a resultf of the creation of the IETF LLC, the IETF now has its own legal umbrella. This 
+	<t>As a result of the creation of the IETF LLC, the IETF now has its own legal umbrella. This 
 		IETF LLC structure now covers the standards and standards process, including all IETF 
 		officers (IAB, IESG, Nomcom and WG chairs), IETF employees and contractors, the RFC 
-		series and RFC editor, etc. The IETF Trust provides legal protection of the RFC series 
-		of documents so that they can be freely distributed and copied (i.e. no restrictions, 
-		financially or otherwise), but cannot be altered or misused (all rights to change 
-		these documents lie with the IETF). The IETF Trust also provides legal protection 
-		in case of intellectual property rights disputes over Internet Standards or parts thereof.</t>
+		series and RFC editor, etc.</t>
+	
+	<t>The IETF Trust, documented in <xref="BCP78"/>, and updated in <xref="I-D.ietf-iasa2-trust-rationale"/> and 
+		<xref="I-D.ietf-iasa2-trust-update"/>, provides legal protection for the RFC series 
+		of documents and other aspects of the IETF. This include things such as protection for trademarks, 
+		copyrights, and intellectual property rights. As part of the IETF Trust arrangement, IETF standards 
+		documents can be freely downloaded, copied, and distributed without financial or other 
+		distribution restrictions, though all rights to change these documents lie with the IETF. 
+		The IETF Trust also provides legal protection in case of disputes over intellectual property 
+		rights and other rights.</t>
 
 </section>
 
@@ -187,11 +194,7 @@
 	
 <section title="Administrative Relationship with ISOC">
 
-	<t>The IETF LLC was organized as a “disregarded entity” of ISOC. This means it operates 
-	      as a branch or division of ISOC for tax purposes. ISOC operates as a U.S. 501(c)(3) 
-	      not-for-profit organization, and was founded to support and promote the development 
-	      of the Internet as a global technical infrastructure, a resource to enrich 
-	      people’s lives, and a force for good in society.</t>
+	<t>To be completed. Basically refer to the structure doc and make clear IETF is responsible for all admin tasks.</t>
 
 </section>	
 
