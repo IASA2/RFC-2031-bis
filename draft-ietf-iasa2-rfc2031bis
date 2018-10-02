@@ -9,8 +9,6 @@
 <!ENTITY I-D.ietf-iasa2-trust-update SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.draft-ietf-iasa2-trust-update.xml">
 <!ENTITY BCP78 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.BCP.78.xml">
 
-
-
 ]>
 
 <?xml-stylesheet type='text/xsl' href='rfc2629.xslt' ?>
