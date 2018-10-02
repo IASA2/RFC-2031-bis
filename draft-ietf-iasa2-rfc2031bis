@@ -2,6 +2,8 @@
 <!DOCTYPE rfc SYSTEM "rfc2629.dtd" [
 
 <!ENTITY RFC2031 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.2031.xml">
+<!ENTITY RFC4071 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.4071.xml">
+<!ENTITY RFC4371 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.4371.xml">
 <!ENTITY I-D.hall-iasa2-struct SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.hall-iasa2-struct.xml">
 
 
@@ -16,7 +18,7 @@
 <?rfc sortrefs="yes" ?>
 <?rfc compact="yes" ?>
 <?rfc subcompact="no" ?>
-<rfc category="bcp" docName="draft-ietf-iasa2-rfc2031bis" ipr="trust200902" obsoletes="2031">
+<rfc category="bcp" docName="draft-ietf-iasa2-rfc2031bis" ipr="trust200902" replaces="2031">
 
 <front>
 
@@ -24,7 +26,7 @@
 	The Updated IETF-ISOC Relationship
 </title>
 	
-	<author fullname="Gonzalo Camarilla" initials="G." surname="Camarillo">
+	<author fullname="Gonzalo Camarillo" initials="G." surname="Camarillo">
 		<organization>Ericsson</organization>
 	    	<address>
 		<email>Gonzalo.Camarillo@ericsson.com</email>
@@ -59,56 +61,45 @@
 <middle>
 
 <section title="Introduction">
+	
 	<t>The Internet Engineering Task Force (IETF) is the body that is responsible for the development 
-		and maintenance of the Internet Standards. Traditionally the IETF is a volunteer 
-		organization. The driving force is dedicated high quality engineers from all over the 
-		world. In a structure of working groups these engineers exchange ideas and experience, 
-		and through discussion (both by e-mail and face to face) they strive to get rough consensus. 
-		The engineers then work on building running code to put the consensus to the test and evolve 
-		it into an Internet Standard.</t>
+		and maintenance of the Internet Standards. The IETF is primarily a volunteer organization. 
+		The driving force is dedicated, high quality engineers from all over the world. In a structure 
+		of working groups, these engineers exchange ideas and experience, and through discussion and 
+		collaboration (both by electronic and face-to-face) they strive to achieve rough consensus and 
+		implement the standards through running code.</t>
+	
+	<t>The growth of the Internet over several decades has also led to a growth of the IETF. More people, 
+		organizations, and companies rely on Internet Standards with every new day. Non-technical issues, 
+		such as legal, administrative, and financial issues have long been an undesirable but unavoidable 
+		part of the IETF. To address these issues the IETF initially established the Poised95 Working Group 
+		in 1995 to structure and document the IETF processes in such a way as to maximize the flexibility 
+		and freedom of the engineers in the IETF so that they can work in the way the IETF has always 
+		been most successful, and to honour the IETF credo: "Rough consensus and running code".</t>
+	
+	<t>The Poised95 Working Group concluded that the Internet Society (ISOC), which was formed in 1992, was 
+		the best organization to handle all of these legal, administrative, and financial tasks on behalf 
+		of and in close cooperation with the IETF. This led to the creation of a series of documents, such as 
+		The IETF Standards Process, The IETF organizational structure, The IETF charter, The Nomcom procedures, 
+		The Appeals procedures, and so on. [REFERENCES NEEDED]</t>
+	
+	<t>As time passed and operational experience accumulated, additional structure was necessary. As a result, 
+		documents were written in order to more fully define what was called the Internet Administrative 
+		Support Activity (IASA) in 2005. The key documents supporting the initial definition of the IASA 
+		were <xref target="RFC4071"/> and <xref target="RFC4371"/>.</t>
 
-	<t>The growth of the Internet has also led to a growth of the IETF. More
-   and more people, organizations and companies rely on Internet
-   Standards. The growth of responsibility as well as amount of
-   participants has forced the IETF to more and more structure its
-   processes. Non technical issues, such as legal issues, liaison issues
-   etc., have become an undesirable but a seemingly unavoidable part of
-   the IETF organization. To address these issues the IETF established
-   the Poised95 working group. The working group is now trying to
-   structure and document the IETF processes in such a way as to keep
-   the maximum flexibility and freedom for the engineers in the IETF to
-   work in the way the IETF has always been most successful, and to
-		honour the IETF credo: "Rough consensus and running code".</t>
-
-   <t>One of the more obvious recommendations that came out of the Poised
-   WG was to move all non technical issues that can be moved safely, to
-   another related organization. The Poised WG finds that the Internet Society (ISOC) is the obvious choice for this task. A straw poll at
-   the open plenary session of the IETF in december 1995 in Dallas
-   clearly confirmed this notion.</t>
-
-   <t>However, since this is an issue that is crucial to the functioning of
-   the IETF as a whole it is necessary to get a broad (rather than a
-   rough) consensus on this issue. At the same time it is necessary to
-   clearly indicate the extend of the relationship between the IETF and
-   ISOC. So both the IETF participants and the ISOC board of trustees
-   get a clear picture on the division of responsibilities.</t>
-
-   <t>The details of the Poised WG recommendations on the IETF - ISOC
-   relationships can be found in the appropriate places in a series of
-   Poised documents in progress: - The IETF Standards Process - The IETF
-   organizational structure - The IETF charter - The Nomcom procedures -
-   The Appeals procedures</t>
-
-   <t>The current document is meant to summarize the Poised WG
-   recommendations in order to gauge the consensus. This document does
-   not have, and is not intended to get, a formal status. The current
-   and upcoming working documents of the Poised WG will become the
-   formal documents. Readers who are interested in the nitty gritty
-   details are referred to these working documents of the Poised WG.</t>
-      
-    </section>
+ 	<t>In 2018, the IASA was revised under a new "IASA 2.0" structure by the IASA2 Working Group. This made 
+		signifincant revisions to the IETF's administrative, legal, and financial structure. One critical 
+		outcome was that the IETF formed the IETF Administration Limited Liability Company (IETF LLC), 
+		in close cooperation with ISOC.</t>
+	
+	<t>As a result, the IASA 2.0 structure and formation of the IETF LLC have changed the relationship 
+		between the IETF and ISOC. This document summarises the current state of the IETF - ISOC  
+		relationship at a high level and replaces <xref target="FRC2031"/>.</t>
+	
+</section>
     
-    <section anchor="boundary" title="Main boundary condition">
+<section anchor="boundary" title="Main boundary condition">
       
       <t>The IETF remains responsible for the development and quality of the
    Internet Standards. The ISOC will aid the IETF by facilitating legal
@@ -245,11 +236,14 @@
 <back>
 
 <references title="Normative References">
-	&RFC2031;
+	
 </references>
     
 <references title="Informative References">
+	&RFC2031;
 	&I-D.hall-iasa2-struct;
+	&RFC4071;
+	&RFC4371;
 </references>
 
 </back>
