@@ -18,7 +18,7 @@
 <?rfc sortrefs="yes" ?>
 <?rfc compact="yes" ?>
 <?rfc subcompact="no" ?>
-<rfc category="bcp" docName="draft-ietf-iasa2-rfc2031bis" ipr="trust200902" replaces="2031">
+<rfc category="informational" docName="draft-ietf-iasa2-rfc2031bis" ipr="trust200902" updates="2031">
 
 <front>
 
@@ -60,7 +60,7 @@
 
 <middle>
 
-<section title="Introduction">
+<section title="Introduction and History">
 	
 	<t>The Internet Engineering Task Force (IETF) is the body that is responsible for the development 
 		and maintenance of the Internet Standards. The IETF is primarily a volunteer organization. 
@@ -81,7 +81,7 @@
 		the best organization to handle all of these legal, administrative, and financial tasks on behalf 
 		of and in close cooperation with the IETF. This led to the creation of a series of documents, such as 
 		The IETF Standards Process, The IETF organizational structure, The IETF charter, The Nomcom procedures, 
-		The Appeals procedures, and so on. [REFERENCES NEEDED]</t>
+		The Appeals procedures, and so on. [INFORMATIVE REFERENCES NEEDED FOR EACH]</t>
 	
 	<t>As time passed and operational experience accumulated, additional structure was necessary. As a result, 
 		documents were written in order to more fully define what was called the Internet Administrative 
@@ -93,12 +93,12 @@
 		outcome was that the IETF formed the IETF Administration Limited Liability Company (IETF LLC), 
 		in close cooperation with ISOC.</t>
 	
-	<t>As a result, the IASA 2.0 structure and formation of the IETF LLC have changed the relationship 
-		between the IETF and ISOC. This document summarises the current state of the IETF - ISOC  
-		relationship at a high level and replaces <xref target="FRC2031"/>.</t>
+	<t>As a result, the IASA 2.0 structure <xref target="I-D.hall-iasa2-struct"/> and formation of the IETF 
+		LLC have changed the relationship between the IETF and ISOC. This document summarises the 
+		current state of the IETF - ISOC relationship at a high level and updates <xref target="FRC2031"/>.</t>
 	
 </section>
-    
+    	
 <section anchor="boundary" title="Main boundary condition">
       
       <t>The IETF remains responsible for the development and quality of the
@@ -133,97 +133,89 @@
 
     </section>
 	  
-<section anchor="legal" title="The legal umbrella">
+<section anchor="standards" title="ISOC's Role in the IETF Standards Process">
 
-      <t>To avoid the fact that the IETF has to construct its own legal
-   structure to protect the standards and the standards process, ISOC
-   should provide a legal umbrella. The legal umbrella will at least
-	      cover:</t>
-  <t> - legal insurance for all IETF officers (IAB, IESG, Nomcom and WG
-	  chairs);</t>
-  <t> - legal protection of the RFC series of documents; In such a way
-     that these documents can be freely (i.e. no restrictions
-     financially or otherwise) distributed, copied etc. but cannot
-     be altered or misused. And that the right to change the document
-	  lies with the IETF.</t>
-   <t>- legal protection in case of Intellectual property rights disputes
-     over Internet Standards or parts thereof.</t>
+[**SECTION NOT UPDATED - STRAIGHT FROM OLD RFC**]
+	
+	<t>ISOC will assist the standards process by:</t>
+		<t>- appointing the nomcom chair</t>
+		<t>- approving IAB candidates</t>
+     		<t>- reviewing and approving the documents that describe the standards 
+			process (i.e. the formal Poised documents).</t>
+     		<t>- acting as the last resort in the appeals process</t>
 
-    </section>
-	  
-	  <section anchor="standards" title="The standards process role">
+</section>
+	
+<section title="Ideological Relationship with ISOC">
 
-		  <t>ISOC will assist the standards process by</t>
-     <t>- appointing the nomcom chair</t>
-     <t>- approving IAB candidates</t>
-     <t>- reviewing and approving the documents that describe the standards
-       process (i.e. the formal Poised documents).</t>
-     <t>- acting as the last resort in the appeals process</t>
+	<t>The IETF LLC was organized as a “disregarded entity” of ISOC. This means it operates 
+	      as a branch or division of ISOC for tax purposes. ISOC operates as a U.S. 501(c)(3) 
+	      not-for-profit organization, and was founded to support and promote the development 
+	      of the Internet as a global technical infrastructure, a resource to enrich 
+	      people’s lives, and a force for good in society.</t>
 
-    </section>
+</section>
+	
+<section title="Legal Relationship with ISOC">
 
-<section anchor="security" title="Security Considerations">
+	<t>The IETF LLC was organized as a “disregarded entity” of ISOC. This means it operates 
+	      as a branch or division of ISOC for tax purposes. ISOC operates as a U.S. 501(c)(3) 
+	      not-for-profit organization, and was founded to support and promote the development 
+	      of the Internet as a global technical infrastructure, a resource to enrich 
+	      people’s lives, and a force for good in society.</t>
+	
+	<t>As a resultf of the creation of the IETF LLC, the IETF now has its own legal umbrella. This 
+		IETF LLC structure now covers the standards and standards process, including all IETF 
+		officers (IAB, IESG, Nomcom and WG chairs), IETF employees and contractors, the RFC 
+		series and RFC editor, etc. The IETF Trust provides legal protection of the RFC series 
+		of documents so that they can be freely distributed and copied (i.e. no restrictions, 
+		financially or otherwise), but cannot be altered or misused (all rights to change 
+		these documents lie with the IETF). The IETF Trust also provides legal protection 
+		in case of intellectual property rights disputes over Internet Standards or parts thereof.</t>
 
-      <t>By involving ISOC into specific parts of the Standards process, the
-   IETF has no longer absolute control. It can be argued that this is a
-   breach of security. It is therefore necessary to make sure that the
-   ISOC involvement is restricted to well defined and understood parts,
-   at well defined and understood boundary conditions. The Poised WG
-   attempts to define these, and they are summarised in this document.</t>
-	      
-	<t>      There are three alternatives:</t>
+</section>
 
-   <t>- Do nothing and ignore the increasing responsibility and growth; the
-     risk here is that the IETF either becomes insignificant, or will be
-     suffocated by US law suits.</t>
-	      
-	<t>         - The IETF does everything itself; this keeps the IETf in control,
-     but it would distract enormously from the technical work the IETF
-     is trying to get done.</t>
+<section title="Financial Relationship with ISOC">
 
-  <t> - The IETF finds another organization than ISOC to take on the role
-     described above. But why would another organization be better than
-     ISOC?</t>
+	<t>The IETF LLC was organized as a “disregarded entity” of ISOC. This means it operates 
+	      as a branch or division of ISOC for tax purposes. ISOC operates as a U.S. 501(c)(3) 
+	      not-for-profit organization, and was founded to support and promote the development 
+	      of the Internet as a global technical infrastructure, a resource to enrich 
+	      people’s lives, and a force for good in society.</t>
 
-  <t> All in all a certain risk seems unavoidable, and a relationship with
-   ISOC, under the restrictions and boundary conditions as have been
-   described above, seems more like an opportunity for the IETF than
-   like a risk.</t>
+</section>
+	
+<section title="Administrative Relationship with ISOC">
 
-    </section>
+	<t>The IETF LLC was organized as a “disregarded entity” of ISOC. This means it operates 
+	      as a branch or division of ISOC for tax purposes. ISOC operates as a U.S. 501(c)(3) 
+	      not-for-profit organization, and was founded to support and promote the development 
+	      of the Internet as a global technical infrastructure, a resource to enrich 
+	      people’s lives, and a force for good in society.</t>
 
-	  
-<section anchor="xxx" title="xxx">
+</section>	
 
-      <t></t>
 
-    </section>
-	  
-	  
-<section anchor="xxx" title="xxx">
 
-      <t></t>
+<section title="Security Considerations">
 
-    </section>
-	  
-	  
-<section anchor="xxx" title="xxx">
+	<t>This document introduces no new security considerations.</t>
+	<t>[RFC Editor: Please remove this section upon publication.]</t>
 
-      <t></t>
+</section>
+	
+<section title="Privacy Considerations">
 
-    </section>
-	  
-	  
-<section anchor="xxx" title="xxx">
+	<t>This document introduces no new privacy considerations.</t>
+	<t>[RFC Editor: Please remove this section upon publication,]</t>
 
-      <t></t>
-
-    </section>
-	  
+</section>
 	  
 <section anchor="ack" title="Acknowledgements">
-	<t>The authors would like to thank Erik Huizer for his contribution to the IETF as the author of 
-		<xref target="RFC2031"/>, which this document replaces.</t>
+	
+	<t>The authors would like to thank Erik Huizer for his contribution to the IETF as the 
+		author of <xref target="RFC2031"/>, which this document updates.</t>
+	
 </section>
 
 <section anchor="changes" title="Changes from Previous Versions">
