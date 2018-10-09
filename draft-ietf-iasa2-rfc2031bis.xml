@@ -19,7 +19,7 @@
 <?rfc sortrefs="yes" ?>
 <?rfc compact="yes" ?>
 <?rfc subcompact="no" ?>
-<rfc category="informational" docName="draft-ietf-iasa2-rfc2031bis" ipr="trust200902" updates="2031">
+<rfc category="informational" docName="draft-ietf-iasa2-rfc2031bis" ipr="trust200902" replaces="2031">
 
 <front>
 
@@ -52,7 +52,8 @@
 		relationship, following a major revision to the structure of the IETF Administrative Support 
 		Activity (IASA) in 2018. The IASA was revised under a new "IASA 2.0" structure by 
 		the IASA2 Working Group, which changed the IETF's administrative, legal, and financial structure. As 
-		a result, it also changed the relationship between the IETF and ISOC.
+		a result, it also changed the relationship between the IETF and ISOC and necessitated a 
+		revision of RFC 2031.
 	</t>
       
 </abstract>
@@ -81,8 +82,9 @@
 	<t>The Poised95 Working Group concluded that the Internet Society (ISOC), which was formed in 1992, was 
 		the best organization to handle all of these legal, administrative, and financial tasks on behalf 
 		of and in close cooperation with the IETF. This led to the creation of a series of documents, such as 
-		The IETF Standards Process, The IETF organizational structure, The IETF charter, The Nomcom procedures, 
-		The Appeals procedures, and so on. [INFORMATIVE REFERENCES NEEDED FOR EACH]</t>
+		The IETF Standards Process, The IETF organizational structure, The IETF charter, The IETF Nominating 
+		Committee (NomCom) procedures, The Appeals procedures, and so on. 
+		[EDITOR ACTION: INFORMATIVE REFERENCES NEEDED FOR EACH]</t>
 	
 	<t>As time passed and operational experience accumulated, additional structure was necessary. As a result, 
 		documents were written in order to more fully define what was called the Internet Administrative 
@@ -96,17 +98,14 @@
 	
 	<t>As a result, the IASA 2.0 structure <xref target="I-D.ietf-iasa2-struct"/> and formation of the IETF 
 		LLC have changed the relationship between the IETF and ISOC. This document summarises the 
-		current state of the IETF - ISOC relationship at a high level and updates <xref target="FRC2031"/>.</t>
+		current state of the IETF - ISOC relationship at a high level and replaces <xref target="FRC2031"/>.</t>
 	
 </section>
     	
 <section title="Main Division of Responsibilities Between IETF and ISOC">
-
-	
-[**SECTION NOT UPDATED - STRAIGHT FROM OLD RFC**]
       
       <t>The IETF remains responsible for the development and quality of the
-   Internet Standards. The ISOC will aid the IETF by facilitating legal
+   Internet Standards. The Internet Society will aid the IETF by facilitating legal
    and organizational issues as described below. Apart from the roles
    described below, the IETF and ISOC acknowledge that the ISOC has no
    influence whatsoever on the Internet Standards process, the Internet
@@ -114,24 +113,42 @@
 
    <t>All subgroups in the IETF and ISOC that have an official role in the
    standards process should be either:
-   - open to anyone (like Working Groups); or
-   - have a well documented restricted membership in which the
-	   voting members are elected or nominated through an open process.</t>
+	   <list style="none">
+   		<t>- open to anyone (like IETF Working Groups); or
+		<t>- have a well documented restricted membership in which the voting members are elected 
+	   or nominated through an open process. [EDITOR'S NOTE: Is "restricted" necessary here?]</t>
+	   </list></t>
 
-  <t> The latter means that within the IETF the IAB and the IESG need to be
+  <t> The latter means that, within the IETF, the Internet Architecture Board (IAB) 
+	  and the Internet Engineering Steering Group (IESG) need to be
    formed through a nomination process that is acceptable to the IETF
-   community and that gives all IETF participants an equal chance to be
-   candidate for a position in either of these bodies. For the ISOC this
-   means that the Board of Trustees should be elected by the ISOC
+   community and that gives all IETF participants an equal chance to be a
+   candidate for a position in either of these bodies. 
+	  
+	  [EDITOR'S NOTE: This next sentence is from the original RFC but not sure
+	  with new ISOC bylaws this is even the case any longer. Suggest that 
+	  this be revised as needed.]
+	  
+	  For the Internet Society, this
+   means that the Board of Trustees should be elected by ISOC's
    individual membership, where all individual members have an equal
    vote and all individual members have an equal opportunity to stand as
 	  a candidate for a position on the Board of Trustees.</t>
 	    
-	    <t>ISOC will, like the IETF use public discussion and consensus building
-   processes when it wants to develop new policies or regulations that
+   <t>The Internet Society will, like the IETF, use public discussion, 
+	   community consultation, and consensus building
+   processes when it wants to develop new policies or procedures that
    may influence the role of ISOC in the Internet or the Internet
-   Technical work. ISOC will always put work related to Internet
-   standards, Internet technical issues or Internet operations up for
+   Technical work. 
+	   
+	  [EDITOR'S NOTE: This next sentence is from the original RFC but not it 
+	   is correct to say that ISOC will consult on technical issues 
+	   via IETF I-Ds. I do not recall that on my time on the ISOC Board. 
+	   Usually it was in consultation with the IESG and IAB.]
+	   
+	   
+	   The Internet Society will always put work related to Internet
+   standards, Internet technical issues, or Internet operations up for
    discussion in the IETF through the IETF Internet-drafts publication
    process.</t>
 
@@ -139,20 +156,22 @@
 	  
 <section anchor="standards" title="ISOC's Role in the IETF Standards Process">
 
-[**SECTION NOT UPDATED - STRAIGHT FROM OLD RFC**]
+[EDITOR'S NOTE: Is the 3rd bullet still correct?]
 	
 	<t>ISOC will assist the standards process by:</t>
-		<t>- appointing the nomcom chair</t>
-		<t>- approving IAB candidates</t>
+		<t><list style="none">
+		<t>- appointing the IETF NomCom chair</t>
+		<t>- approving IAB candidates that were put forward by the IETF NomCom</t>
      		<t>- reviewing and approving the documents that describe the standards 
-			process (i.e. the formal Poised documents).</t>
+			process</t>
      		<t>- acting as the last resort in the appeals process</t>
+		</list></t>
 
 </section>
 	
 <section title="Ideological Relationship with ISOC">
 
-	<t>TBD - touch on the alignment of ideology of the 2 orgs and their shared history</t>
+	<t>TBD - perhaps touch on the alignment of ideology of the 2 orgs and their shared history</t>
 
 </section>
 	
@@ -164,10 +183,10 @@
 	      of the Internet as a global technical infrastructure, a resource to enrich 
 	      people’s lives, and a force for good in society. Governing the relationship 
 	      between the IETF LLC and ISOC is an Operating Agreement, which was agreed to in 2018. 
-	      [REFERENCE NEEDED?]</t>
+	      [REFERENCE NEEDED HERE?]</t>
 	
 	<t>As a result of the creation of the IETF LLC, the IETF now has its own legal umbrella. This 
-		IETF LLC structure now covers the standards and standards process, including all IETF 
+		IETF LLC structure now covers the IETF standards and IETF standards process, all IETF 
 		officers (IAB, IESG, Nomcom and WG chairs), IETF employees and contractors, the RFC 
 		series and RFC editor, etc.</t>
 	
@@ -182,9 +201,9 @@
 
 </section>
 
-<section title="Financial Relationship with ISOC">
+<section title="Financial and Administrative Relationship with ISOC">
 
-	<t>The IETF LLC was organized as a “disregarded entity” of ISOC. This means it operates 
+	<t>The IETF LLC was organized as a “disregarded entity” of Internet Society. This means it operates 
 	      as a branch or division of ISOC for tax purposes. ISOC operates as a U.S. 501(c)(3) 
 	      not-for-profit organization, and was founded to support and promote the development 
 	      of the Internet as a global technical infrastructure, a resource to enrich 
@@ -195,11 +214,9 @@
 		operating budget for the IETF, as well as for fundraising, maintaining a bank account, managing 
 		the IETF Endowment, and so on.</t>
 
-</section>
-	
-<section title="Administrative Relationship with ISOC">
-
-	<t>To be completed. Basically refer to the structure doc and make clear IETF is responsible for all admin tasks.</t>
+	<t>The IETF is solely responsible for its administration under the new IASA 2.0 structure and via 
+		the IETF LLC, IETF Trust, IAB, IESG, IETF working groups, and other IETF processes. A further 
+	exploration of this can be found in Section 4 of <xref target="I-D.ietf-iasa2-struct"/>. </t>
 
 </section>	
 
@@ -221,8 +238,8 @@
 	  
 <section anchor="ack" title="Acknowledgements">
 	
-	<t>The authors would like to thank Erik Huizer for his contribution to the IETF as the 
-		author of <xref target="RFC2031"/>, which this document updates.</t>
+	<t>The authors would like to thank Erik Huizer for his contribution as the 
+		author of <xref target="RFC2031"/>, which this document replaces.</t>
 	
 </section>
 
