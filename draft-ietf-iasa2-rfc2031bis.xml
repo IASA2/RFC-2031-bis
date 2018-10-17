@@ -5,9 +5,9 @@
 <!ENTITY RFC4071 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.4071.xml">
 <!ENTITY RFC4371 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.4371.xml">
 <!ENTITY I-D.ietf-iasa2-struct SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.ietf-iasa2-struct.xml">
-<!ENTITY I-D.ietf-iasa2-trust-rationale SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.draft-ietf-iasa2-trust-rationale.xml">
-<!ENTITY I-D.ietf-iasa2-trust-update SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.draft-ietf-iasa2-trust-update.xml">
-<!ENTITY BCP78 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.BCP.78.xml">
+<!ENTITY I-D.ietf-iasa2-trust-rationale SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.ietf-iasa2-trust-rationale.xml">
+<!ENTITY I-D.ietf-iasa2-trust-update SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.ietf-iasa2-trust-update.xml">
+<!ENTITY RFC5378 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.5378.xml">
 
 ]>
 
@@ -19,7 +19,7 @@
 <?rfc sortrefs="yes" ?>
 <?rfc compact="yes" ?>
 <?rfc subcompact="no" ?>
-<rfc category="informational" docName="draft-ietf-iasa2-rfc2031bis" ipr="trust200902" replaces="2031">
+<rfc category="info" docName="draft-ietf-iasa2-rfc2031bis-00" ipr="trust200902" obsoletes="2031">
 
 <front>
 
@@ -98,7 +98,7 @@
 	
 	<t>As a result, the IASA 2.0 structure <xref target="I-D.ietf-iasa2-struct"/> and formation of the IETF 
 		LLC have changed the relationship between the IETF and ISOC. This document summarises the 
-		current state of the IETF - ISOC relationship at a high level and replaces <xref target="FRC2031"/>.</t>
+		current state of the IETF - ISOC relationship at a high level and replaces <xref target="RFC2031"/>.</t>
 	
 </section>
     	
@@ -112,9 +112,9 @@
 	      Standards or their technical content.</t>
 
    <t>All subgroups in the IETF and ISOC that have an official role in the
-   standards process should be either:
-	   <list style="none">
-   		<t>- open to anyone (like IETF Working Groups); or
+   standards process should be either:</t>
+	   <t><list style="none">
+   		<t>- open to anyone (like IETF Working Groups); or</t>
 		<t>- have a well documented restricted membership in which the voting members are elected 
 	   or nominated through an open process. [EDITOR'S NOTE: Is "restricted" necessary here?]</t>
 	   </list></t>
@@ -156,7 +156,7 @@
 	  
 <section anchor="standards" title="ISOC's Role in the IETF Standards Process">
 
-[EDITOR'S NOTE: Is the 3rd bullet still correct?]
+<t>[EDITOR'S NOTE: Is the 3rd bullet still correct?]</t>
 	
 	<t>ISOC will assist the standards process by:</t>
 		<t><list style="none">
@@ -174,24 +174,27 @@
 	<t>TBD - perhaps touch on the alignment of ideology of the 2 orgs and their shared history</t>
 
 </section>
-	
+
 <section title="Legal Relationship with ISOC">
 
-	<t>The IETF LLC was organized as a “disregarded entity” of ISOC. This means it operates 
-	      as a branch or division of ISOC for tax purposes. ISOC operates as a U.S. 501(c)(3) 
-	      not-for-profit organization, and was founded to support and promote the development 
-	      of the Internet as a global technical infrastructure, a resource to enrich 
-	      people’s lives, and a force for good in society. Governing the relationship 
-	      between the IETF LLC and ISOC is an Operating Agreement, which was agreed to in 2018. 
-	      [REFERENCE NEEDED HERE?]</t>
+	<t>The IETF LLC was organized as a "disregarded entity" of
+	ISOC. This means it operates as a branch or division of ISOC
+	for tax purposes. ISOC operates as a U.S. 501(c)(3)
+	not-for-profit organization, and was founded to support and
+	promote the development of the Internet as a global technical
+	infrastructure, a resource to enrich people's lives, and a
+	force for good in society. Governing the relationship between
+	the IETF LLC and ISOC is an Operating Agreement, which was
+	agreed to in 2018.  [REFERENCE NEEDED HERE?]</t>
 	
 	<t>As a result of the creation of the IETF LLC, the IETF now has its own legal umbrella. This 
 		IETF LLC structure now covers the IETF standards and IETF standards process, all IETF 
 		officers (IAB, IESG, Nomcom and WG chairs), IETF employees and contractors, the RFC 
 		series and RFC editor, etc.</t>
 	
-	<t>The IETF Trust, documented in <xref="BCP78"/>, and updated in <xref="I-D.ietf-iasa2-trust-rationale"/> and 
-		<xref="I-D.ietf-iasa2-trust-update"/>, provides legal protection for the RFC series 
+	<t>The IETF Trust, documented in <xref target="RFC5378"/>, and
+	updated in <xref target="I-D.ietf-iasa2-trust-rationale"/> and 
+		<xref target="I-D.ietf-iasa2-trust-update"/>, provides legal protection for the RFC series 
 		of documents and other aspects of the IETF. This include things such as protection for trademarks, 
 		copyrights, and intellectual property rights. As part of the IETF Trust arrangement, IETF standards 
 		documents can be freely downloaded, copied, and distributed without financial or other 
@@ -203,11 +206,11 @@
 
 <section title="Financial and Administrative Relationship with ISOC">
 
-	<t>The IETF LLC was organized as a “disregarded entity” of Internet Society. This means it operates 
+	<t>The IETF LLC was organized as a "disregarded entity" of Internet Society. This means it operates 
 	      as a branch or division of ISOC for tax purposes. ISOC operates as a U.S. 501(c)(3) 
 	      not-for-profit organization, and was founded to support and promote the development 
 	      of the Internet as a global technical infrastructure, a resource to enrich 
-	      people’s lives, and a force for good in society.</t>
+	      people's lives, and a force for good in society.</t>
 	
 	<t>Under the terms of the ISOC - IETF LLC Operating Agreement, ISOC has agreed to provide some funding 
 		support for the IETF. But the IETF LLC will be responsible for creating and managing an annual 
@@ -232,7 +235,7 @@
 <section title="Privacy Considerations">
 
 	<t>This document introduces no new privacy considerations.</t>
-	<t>[RFC Editor: Please remove this section upon publication,]</t>
+	<t>[RFC Editor: Please remove this section upon publication.]</t>
 
 </section>
 	  
@@ -252,18 +255,21 @@
 
 <back>
 
-<references title="Normative References">
+<!--
+  <references title="Normative References">
 	
-</references>
-    
+  </references>
+-->
+
 <references title="Informative References">
 	
-	&BCP78;
+	&RFC5378;
 	&RFC2031;
 	&RFC4071;
 	&RFC4371;
 	&I-D.ietf-iasa2-struct;
 	&I-D.ietf-iasa2-trust-rationale;
+        &I-D.ietf-iasa2-trust-update;
 	
 </references>
 
