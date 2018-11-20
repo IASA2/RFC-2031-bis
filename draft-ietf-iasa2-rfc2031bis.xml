@@ -224,13 +224,6 @@ intellectual property rights and other rights.
 </section>
 
 <section title="Financial and Administrative Relationship with ISOC">
-
-  <t>
-The IETF LLC was organized as a "disregarded entity" of Internet
-Society. This means it operates as a branch or division of ISOC for
-tax purposes. As stated previously, ISOC operates as a U.S. 501(c)(3)
-not-for-profit organization.
-  </t>
 	
   <t>
 Under the terms of the Operating Agreement between ISOC and the IETF,
@@ -238,9 +231,10 @@ ISOC has agreed to provide some funding support for the IETF (ISOC has
 historically provided the IETF with significant financial
 support). The IETF LLC will be responsible for creating and managing
 an annual operating budget for the IETF, for fund raising, for
-maintaining a bank account, and so on.
-  </t>
-
+maintaining a bank account, and so on. The IETF LLC is managed by a
+board of directors, one of whom is appointed by ISOC. The intention is
+that ISOC and the IETF LLC operate at arms length.
+  </t>  
   <t>
 Under the new IASA 2.0 structure, the IETF is solely responsible for
 its administration via the IETF LLC, IETF Trust, IAB, IESG, IETF
