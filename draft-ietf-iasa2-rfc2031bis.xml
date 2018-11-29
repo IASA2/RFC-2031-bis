@@ -201,23 +201,23 @@ one of its main strengths.
 <section title="Legal Relationship with ISOC">
 
   <t>
-The IETF LLC was organized as a "disregarded entity" of ISOC. This
-means it operates as a branch or division of ISOC for tax
-purposes. ISOC operates as a U.S. 501(c)(3) not-for-profit
-organization, and was founded to support and promote the development
-of the Internet as a global technical infrastructure, a resource to
-enrich people's lives, and a force for good in society. The Limited
-Liability Company Agreement of IETF Administration LLC, dated August
-27 2018, is the Operating Agreement that governs the relationship
-between the IETF LLC and ISOC.
+The IETF LLC was created as a subsidiary (i.e., a "disregarded
+entity") of ISOC.  For tax purposes it is treated as part of ISOC, but
+it is managed separately. ISOC operates as a U.S. 501(c)(3)
+not-for-profit organization, and was founded to support and promote
+the development of the Internet as a global technical infrastructure,
+a resource to enrich people's lives, and a force for good in
+society. The Limited Liability Company Agreement of IETF
+Administration LLC, dated August 27 2018, is the Operating Agreement
+that governs the relationship between the IETF LLC and ISOC.
   </t>
 	
   <t>
-As a result of the creation of the IETF LLC, the IETF now has its own
-legal umbrella. This IETF LLC structure now covers the IETF standards
-and IETF standards process, all IETF officers (IAB, IESG, Nomcom, and
-WG chairs), IETF employees and contractors, the RFC series and RFC
-editor, etc.
+The IETF LLC provides the IETF with a separate legal existence. The
+IETF LLC structure now covers the IETF standards and IETF standards
+process, all IETF officers (IAB, IESG, Nomcom, and WG chairs), IETF
+employees and contractors, the RFC series and RFC editor, and all of
+the IETF's other business operations.
   </t>
 	
   <t>
@@ -231,7 +231,9 @@ IETF standards documents can be freely downloaded, copied, and
 distributed without financial or other distribution restrictions,
 though all rights to change these documents lie with the IETF.  The
 IETF Trust also provides legal protection in case of disputes over
-intellectual property rights and other rights.
+intellectual property rights and other rights. The creation of the
+IETF LLC has changed the way that the Trust's trustees are selected
+but did not change the purpose or operation of the Trust.
   </t>
 
 </section>
@@ -241,12 +243,12 @@ intellectual property rights and other rights.
   <t>
 Under the terms of the Operating Agreement between ISOC and the IETF,
 ISOC has agreed to provide some funding support for the IETF (ISOC has
-historically provided the IETF with significant financial
-support). The IETF LLC will be responsible for creating and managing
-an annual operating budget for the IETF, for fund raising, for
-maintaining a bank account, and so on. The IETF LLC is managed by a
-board of directors, one of whom is appointed by ISOC. The intention is
-that ISOC and the IETF LLC operate at arms length.
+historically provided the IETF with significant financial support).
+In particular, among other things, the IETF LLC will be responsible
+for creating and managing an annual operating budget for the IETF, for
+fund raising, and for maintaining a bank account. The IETF LLC is
+managed by a board of directors, one of whom is appointed by ISOC. The
+intention is that ISOC and the IETF LLC operate at arms length.
   </t>  
   <t>
 Under the new IASA 2.0 structure, the IETF is solely responsible for
