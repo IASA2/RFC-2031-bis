@@ -25,12 +25,12 @@
 <?rfc sortrefs="yes" ?>
 <?rfc compact="yes" ?>
 <?rfc subcompact="no" ?>
-<rfc category="info" docName="draft-ietf-iasa2-rfc2031bis-00" ipr="trust200902" obsoletes="2031">
+<rfc category="info" docName="draft-ietf-iasa2-rfc2031bis-01" ipr="trust200902" obsoletes="2031">
 
 <front>
 
-<title abbrev="The Updated IETF-ISOC Relationship">
-	The Updated IETF-ISOC Relationship
+<title abbrev="The IETF-ISOC Relationship">
+	The IETF-ISOC Relationship
 </title>
 	
 	<author fullname="Gonzalo Camarillo" initials="G." surname="Camarillo">
@@ -131,19 +131,6 @@ level and replaces <xref target="RFC2031"/>.
   </t>
 	
 </section>
-    	
-<section title="Main Division of Responsibilities between IETF and ISOC">
-      
-  <t>
-The IETF remains responsible for the development and quality of the
-Internet Standards. The Internet Society will aid the IETF by
-facilitating legal and organizational issues as described below. Apart
-from the roles described below, the IETF and ISOC acknowledge that
-ISOC has no influence whatsoever on the technical content of Internet
-Standards.
-  </t>
-
-    </section>
 
 	
 <section title="Philosophical Relationship with ISOC">
@@ -159,7 +146,21 @@ Internet infrastructure, technologies, and open standards.
    </t>
 
 </section>
-    
+
+    	
+<section title="Main Division of Responsibilities between IETF and ISOC">
+      
+  <t>
+The IETF remains responsible for the development and quality of the
+Internet Standards. The Internet Society will aid the IETF by
+facilitating legal and organizational issues as described below. Apart
+from the roles described below, the IETF and ISOC acknowledge that
+ISOC has no influence whatsoever on the technical content of Internet
+Standards.
+  </t>
+
+    </section>
+
 <section anchor="standards" title="ISOC's Role in the IETF Standards Process">
 
   <t>
@@ -208,8 +209,8 @@ founded to support and promote the development of the Internet as a
 global technical infrastructure, a resource to enrich people's lives,
 and a force for good in society. The Limited Liability Company
 Agreement of IETF Administration LLC, dated August 27 2018, is the
-Operating Agreement that governs the relationship between the IETF LLC
-and ISOC.
+Operating Agreement <xref target="OpAgreement"/> that governs the
+relationship between the IETF LLC and ISOC.
   </t>
 	
   <t>
@@ -241,16 +242,16 @@ but did not change the purpose or operation of the Trust.
 <section title="Financial and Administrative Relationship with ISOC">
 	
   <t>
-Under the terms of the Operating Agreement between ISOC and the IETF,
-ISOC has agreed to provide some funding support for the IETF (ISOC has
-historically provided the IETF with significant financial support).
-In particular, among other things, the IETF LLC will be responsible
-for creating and managing an annual operating budget for the IETF; for
-negotiating, signing, and overseeing contracts; for fund raising; for
-maintaining a bank account; and for liability insurance. The IETF LLC
-is managed by a board of directors, one of whom is appointed by
-ISOC. The intention is that ISOC and the IETF LLC operate at arms
-length.
+Under the terms of the Operating Agreement <xref
+target="OpAgreement"/> between ISOC and the IETF, ISOC has agreed to
+provide some funding support for the IETF (ISOC has historically
+provided the IETF with significant financial support).  In particular,
+among other things, the IETF LLC will be responsible for creating and
+managing an annual operating budget for the IETF; for negotiating,
+signing, and overseeing contracts; for fund raising; for maintaining a
+bank account; and for liability insurance. The IETF LLC is managed by
+a board of directors, one of whom is appointed by ISOC. The intention
+is that ISOC and the IETF LLC operate at arms length.
   </t>  
   <t>
 Under the new IASA 2.0 structure, the IETF is solely responsible for
@@ -318,6 +319,17 @@ replaces.
 	&I-D.ietf-iasa2-struct;
 	&I-D.ietf-iasa2-trust-rationale;
         &I-D.ietf-iasa2-trust-update;
+
+
+    <reference anchor='OpAgreement'>
+       <front> 
+         <title abbrev='Operating Agreement'>Limited Liability Company
+Agreement of IETF Administration LLC</title>
+<author />
+         <date month='August' year='2018' /> 
+       </front>
+    </reference>
+
 	
 </references>
 
