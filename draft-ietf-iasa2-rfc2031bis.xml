@@ -119,7 +119,7 @@ IASA2 Working Group, which made signifincant revisions to the IETF's
 administrative, legal, and financial structure. One critical outcome
 was that the formation, in close cooperation between the IETF and
 ISOC, of the IETF Administration Limited Liability Company (IETF LLC)
-as a disregarded entity of ISOC.
+as a subsidiary of ISOC.
   </t>
 	
   <t>
@@ -201,15 +201,15 @@ one of its main strengths.
 <section title="Legal Relationship with ISOC">
 
   <t>
-The IETF LLC was created as a subsidiary (i.e., a "disregarded
-entity") of ISOC.  For tax purposes it is treated as part of ISOC, but
-it is managed separately. ISOC operates as a U.S. 501(c)(3)
-not-for-profit organization, and was founded to support and promote
-the development of the Internet as a global technical infrastructure,
-a resource to enrich people's lives, and a force for good in
-society. The Limited Liability Company Agreement of IETF
-Administration LLC, dated August 27 2018, is the Operating Agreement
-that governs the relationship between the IETF LLC and ISOC.
+The IETF LLC was created as a subsidiary of ISOC.  For tax purposes it
+is treated as part of ISOC, but it is managed separately. ISOC
+operates as a U.S. 501(c)(3) not-for-profit organization, and was
+founded to support and promote the development of the Internet as a
+global technical infrastructure, a resource to enrich people's lives,
+and a force for good in society. The Limited Liability Company
+Agreement of IETF Administration LLC, dated August 27 2018, is the
+Operating Agreement that governs the relationship between the IETF LLC
+and ISOC.
   </t>
 	
   <t>
@@ -245,10 +245,12 @@ Under the terms of the Operating Agreement between ISOC and the IETF,
 ISOC has agreed to provide some funding support for the IETF (ISOC has
 historically provided the IETF with significant financial support).
 In particular, among other things, the IETF LLC will be responsible
-for creating and managing an annual operating budget for the IETF, for
-fund raising, and for maintaining a bank account. The IETF LLC is
-managed by a board of directors, one of whom is appointed by ISOC. The
-intention is that ISOC and the IETF LLC operate at arms length.
+for creating and managing an annual operating budget for the IETF; for
+negotiating, signing, and overseeing contracts; for fund raising; for
+maintaining a bank account; and for liability insurance. The IETF LLC
+is managed by a board of directors, one of whom is appointed by
+ISOC. The intention is that ISOC and the IETF LLC operate at arms
+length.
   </t>  
   <t>
 Under the new IASA 2.0 structure, the IETF is solely responsible for
