@@ -10,7 +10,7 @@
 <!ENTITY RFC4071 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.4071.xml">
 <!ENTITY RFC4371 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.4371.xml">
 <!ENTITY RFC7437 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.7437.xml">
-<!ENTITY I-D.ietf-iasa2-struct SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.ietf-iasa2-struct.xml">
+<!ENTITY I-D.ietf-iasa2-struct SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.ietf-iasa2-rfc4071bis.xml">
 <!ENTITY I-D.ietf-iasa2-trust-rationale SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.ietf-iasa2-trust-rationale.xml">
 <!ENTITY I-D.ietf-iasa2-trust-update SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.ietf-iasa2-trust-update.xml">
 <!ENTITY RFC5378 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.5378.xml">
@@ -47,7 +47,7 @@
 		</address>
 	  </author>
     
-<date month="November" year="2018" />
+<date month="December" year="2018" />
 
 <area>General</area>
 
@@ -124,7 +124,7 @@ as a subsidiary of ISOC.
 	
   <t>
 As a result of the the IASA 2.0 structure <xref
-target="I-D.ietf-iasa2-struct"/> and formation of the IETF LLC, the
+target="I-D.ietf-iasa2-rfc4071bis"/> and formation of the IETF LLC, the
 relationship between the IETF and ISOC has changed. This document
 summarises the current state of the IETF - ISOC relationship at a high
 level and replaces <xref target="RFC2031"/>.
@@ -202,17 +202,12 @@ one of its main strengths.
 <section title="Legal Relationship with ISOC">
 
   <t>
-The IETF LLC was created as a subsidiary of ISOC.  For tax purposes it
-is treated as part of ISOC, but it is managed separately. ISOC
-operates as a U.S. 501(c)(3) not-for-profit organization, and was
-founded to support and promote the development of the Internet as a
-global technical infrastructure, a resource to enrich people's lives,
-and a force for good in society. The Limited Liability Company
-Agreement of IETF Administration LLC, dated August 27 2018, is the
-Operating Agreement <xref target="OpAgreement"/> that governs the
-relationship between the IETF LLC and ISOC (while this document is
-intended as a summary of the agreement, please note that only the
-agreement is authoritative).
+The IETF LLC was created as a subsidiary of ISOC. Specifically, the
+IETF LLC is a single-member Limited Liability Company created in
+Delaware (USA) in August 2018.  The member (i.e., its legal owner) is
+ISOC. The IETF LLC is managed separately, makes a budget, can sign
+contracts, can pay and receive money, can sue and be sued, and has a
+board.  
   </t>
 	
   <t>
@@ -260,7 +255,7 @@ Under the new IASA 2.0 structure, the IETF is solely responsible for
 its administration via the IETF LLC, IETF Trust, IAB, IESG, IETF
 working groups, and other IETF processes. A further exploration of
 this can be found in Section 4 of <xref
-target="I-D.ietf-iasa2-struct"/>.
+target="I-D.ietf-iasa2-rfc4071bis"/>.
   </t>
 
 </section>	
@@ -318,7 +313,7 @@ replaces.
 	&RFC4071;
 	&RFC4371;
 	&RFC7437;	
-	&I-D.ietf-iasa2-struct;
+	&I-D.ietf-iasa2-rfc4071bis;
 	&I-D.ietf-iasa2-trust-rationale;
         &I-D.ietf-iasa2-trust-update;
 
