@@ -177,8 +177,8 @@ target="RFC2026"/>.
 	
   <t>
 ISOC maintains liaison relationships and memberships in other
-Standards Development Organizations (SDOs), which directly benefits
-the IETF. For example, in 1995 ISOC established a liaison
+Standards Development Organizations (SDOs) and related organizations, 
+which directly benefits the IETF. For example, in 1995 ISOC established a liaison
 relationship with ISO/IEC JTC1/SC6 on behalf of the IETF. Many
 years later, a national body introduced a proposal, called TIsec,
 that included a protocol specification that was almost identical to
@@ -194,7 +194,16 @@ by promoting it in relevant communities) through several
 programmes. For example, ISOC's Policymakers Programme to the IETF
 (usually referred to simply as ISOC's policy fellows programme)
 gives policy experts an opportunity to interact directly with the
-IETF technical community.
+IETF technical community. ISOC also does technical work using the 
+standards developed in the IETF as its basis. An example of that is 
+ISOC's Deploy360 program, which helps encourage and support the 
+deployment of critical new IETF standards like DNSSEC and IPv6.
+  </t>
+	
+  <t>
+Involvement of ISOC’s employees in the standard process e.g. as document 
+editors, or in leadership positions, is as individual contributors rather 
+than on institutional grounds.
   </t>
   
 </section>
