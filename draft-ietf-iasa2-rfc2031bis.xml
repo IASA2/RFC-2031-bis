@@ -8,12 +8,15 @@
 <!ENTITY RFC2850 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.2850.xml">
 <!ENTITY RFC3677 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.3677.xml">
 <!ENTITY RFC4071 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.4071.xml">
+<!ENTITY RFC4303 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.4303.xml">
 <!ENTITY RFC4371 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.4371.xml">
+<!ENTITY RFC5378 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.5378.xml">
 <!ENTITY RFC7437 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.7437.xml">
 <!ENTITY I-D.ietf-iasa2-rfc4071bis SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.ietf-iasa2-rfc4071bis.xml">
 <!ENTITY I-D.ietf-iasa2-trust-rationale SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.ietf-iasa2-trust-rationale.xml">
 <!ENTITY I-D.ietf-iasa2-trust-update SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.ietf-iasa2-trust-update.xml">
-<!ENTITY RFC5378 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.5378.xml">
+<!ENTITY LS1220 SYSTEM "https://datatracker.ietf.org/liaison/1220/">
+
 
 ]>
 
@@ -171,6 +174,28 @@ NomCom, as described in <xref target="RFC7437"/>, and by acting as the
 last resort in the appeals process, as describes in <xref
 target="RFC2026"/>.
   </t>
+	
+  <t>
+ISOC maintains liaison relationships and memberships in other
+Standards Development Organizations (SDOs), which directly benefits
+the IETF. For example, in 1995 ISOC established a liaison
+relationship with ISO/IEC JTC1/SC6 on behalf of the IETF. Many
+years later, a national body introduced a proposal, called TIsec,
+that included a protocol specification that was almost identical to
+IPsec ESP <xref target"RFC4303"/>. Due to the existing liaison relationship,
+straightforward communication <xref target="LS1220"/> was able to avoid confusion
+in the marketplace caused by nearly identical yet non-interoperable
+standards.
+  </t>
+
+  <t>
+ISOC also supports the IETF standards process more indirectly (e.g.,
+by promoting it in relevant communities) through several
+programmes. For example, ISOC's Policymakers Programme to the IETF
+(usually referred to simply as ISOC's policy fellows programme)
+gives policy experts an opportunity to interact directly with the
+IETF technical community.
+  </t>
   
 </section>
 
@@ -250,6 +275,14 @@ bank account; and for liability insurance. The IETF LLC is managed by
 a board of directors, one of whom is appointed by ISOC. The intention
 is that ISOC and the IETF LLC operate at arms length.
   </t>  
+	
+  <t>	
+The IETF LCC establishes contracts with third parties to provide
+different types of services to the IETF. Note that it is possible
+that some of those services may be provided by ISOC and involve ISOC
+staff.
+  </t>	
+  
   <t>
 Under the new IASA 2.0 structure, the IETF is solely responsible for
 its administration via the IETF LLC, IETF Trust, IAB, IESG, IETF
@@ -311,11 +344,13 @@ replaces.
 	&RFC3677;
 	&RFC5378;	
 	&RFC4071;
+	&RFC4303;
 	&RFC4371;
 	&RFC7437;	
 	&I-D.ietf-iasa2-rfc4071bis;
 	&I-D.ietf-iasa2-trust-rationale;
         &I-D.ietf-iasa2-trust-update;
+	&LS1220;
 
 
     <reference anchor='OpAgreement'>
