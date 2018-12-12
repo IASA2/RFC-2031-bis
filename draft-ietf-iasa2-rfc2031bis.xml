@@ -177,15 +177,15 @@ target="RFC2026"/>.
 	
   <t>
 ISOC maintains liaison relationships and memberships in other
-Standards Development Organizations (SDOs) and related organizations, 
-which directly benefits the IETF. For example, in 1995 ISOC established a liaison
-relationship with ISO/IEC JTC1/SC6 on behalf of the IETF. Many
-years later, a national body introduced a proposal, called TIsec,
-that included a protocol specification that was almost identical to
-IPsec ESP <xref target"RFC4303"/>. Due to the existing liaison relationship,
-straightforward communication <xref target="LS1220"/> was able to avoid confusion
-in the marketplace caused by nearly identical yet non-interoperable
-standards.
+Standards Development Organizations (SDOs) and related organizations,
+which directly benefits the IETF. For example, in 1995 ISOC
+established a liaison relationship with ISO/IEC JTC1/SC6 on behalf of
+the IETF. Many years later, a national body introduced a proposal,
+called TIsec, that included a protocol specification that was almost
+identical to IPsec ESP <xref target="RFC4303"/>. Due to the existing
+liaison relationship, straightforward communication <xref
+target="LS1220"/> was able to avoid confusion in the marketplace
+caused by nearly identical yet non-interoperable standards.
   </t>
 
   <t>
@@ -201,9 +201,9 @@ deployment of critical new IETF standards like DNSSEC and IPv6.
   </t>
 	
   <t>
-Involvement of ISOC’s employees in the standard process e.g. as document 
-editors, or in leadership positions, is as individual contributors rather 
-than on institutional grounds.
+Involvement of ISOC's employees in the standard process (e.g., as
+document editors or in leadership positions) is as individual
+contributors rather than on institutional grounds.
   </t>
   
 </section>
@@ -241,7 +241,15 @@ IETF LLC is a single-member Limited Liability Company created in
 Delaware (USA) in August 2018.  The member (i.e., its legal owner) is
 ISOC. The IETF LLC is managed separately, makes a budget, can sign
 contracts, can pay and receive money, can sue and be sued, and has a
-board.  
+board. ISOC operates as a U.S. 501(c)(3) not-for-profit organization,
+and was founded to support and promote the development of the Internet
+as a global technical infrastructure, a resource to enrich people's
+lives, and a force for good in society. The Limited Liability Company
+Agreement of IETF Administration LLC, dated August 27 2018, is the
+Operating Agreement <xref target="OpAgreement"/> that governs the
+relationship between the IETF LLC and ISOC (while this document is
+intended as a summary of the agreement, please note that only the
+agreement is authoritative).
   </t>
 	
   <t>
@@ -359,7 +367,6 @@ replaces.
 	&I-D.ietf-iasa2-rfc4071bis;
 	&I-D.ietf-iasa2-trust-rationale;
         &I-D.ietf-iasa2-trust-update;
-	&LS1220;
 
 
     <reference anchor='OpAgreement'>
@@ -371,7 +378,16 @@ Agreement of IETF Administration LLC</title>
        </front>
     </reference>
 
-	
+    <reference anchor='LS1220' target='https://datatracker.ietf.org/liaison/1220/'>
+       <front> 
+         <title abbrev='LS1220'>'Liaison Statement to ISO/IEC JTC1/SC6
+	 Regarding TIsec</title>
+<author />
+         <date month='August' year='2018' /> 
+       </front>
+    </reference>
+
+    
 </references>
 
 </back>
