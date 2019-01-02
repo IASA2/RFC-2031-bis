@@ -258,6 +258,14 @@ employees and contractors, the RFC series and RFC editor, and all of
 the IETF's other business operations.
   </t>
 	
+<t>
+For tax purposes, the IETF LLC is considered a part of ISOC, known
+as a "disregarded entity".  This means that the IETF LLC shares ISOC's
+tax exempt status as a not-for-profit charity, and contributions to
+the LLC are tax deductible under U.S. law as they would be if they
+were made to ISOC.
+</t>
+	
   <t>
 The IETF Trust, documented in <xref target="RFC5378"/>, and updated in
 <xref target="I-D.ietf-iasa2-trust-rationale"/> and <xref
