@@ -29,7 +29,7 @@
 <?rfc sortrefs="yes" ?>
 <?rfc compact="yes" ?>
 <?rfc subcompact="no" ?>
-<rfc category="info" docName="draft-ietf-iasa2-rfc2031bis-02" ipr="trust200902" obsoletes="2031">
+<rfc category="info" docName="draft-ietf-iasa2-rfc2031bis-03" ipr="trust200902" obsoletes="2031">
 
 <front>
 
@@ -109,6 +109,14 @@ organizational structure <xref target="RFC2028"/>, the IETF Nominating
 Committee (NomCom) procedures <xref target="RFC2282"/>, and the IETF-ISOC
 relationship <xref target="RFC2031"/>.
   </t>
+	
+<t>
+ As a result, the Internet Society provides a corporate home for the
+   administrative entity that supports the Internet Engineering Task
+   Force (IETF), the Internet Architecture Board (IAB), and the Internet Research
+   Task Force (IRTF), and supports the work of these groups through a variety
+   of programs.
+</t>
 	
   <t>
 As time passed and operational experience accumulated, additional
@@ -351,6 +359,8 @@ replaces.
 	<t>-00: Initial version published</t>
 	<t>-01: Several key updates to prepare WGLC based on WG feedback</t>
 	<t>-02: Fixed nits identified by Brian Carpenter on 12-21-2018, and text on the tax status from John Levine.</t>
+	<t>-03: As we entered IESG review, added a short description of what ISOC does (in relation to the IETF) 
+		that can be used in external material by both the IETF and ISOC.</t>
 </section>
 
 </middle>
