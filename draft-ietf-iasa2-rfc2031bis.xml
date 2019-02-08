@@ -75,6 +75,15 @@ between the IETF and ISOC, which made it necessary to revise RFC 2031.
 <middle>
 
 <section title="Introduction and History">
+  	
+  <t>
+The Internet Society provides a corporate home for the administrative
+entity that supports the Internet Engineering Task Force (IETF), the
+Internet Architecture Board (IAB), and the Internet Research Task
+Force (IRTF), and supports the work of these groups through a variety
+of programs.
+  </t>
+
   <t>
 The Internet Engineering Task Force (IETF) is the body that is
 responsible for the development and maintenance of the Internet
@@ -109,14 +118,6 @@ organizational structure <xref target="RFC2028"/>, the IETF Nominating
 Committee (NomCom) procedures <xref target="RFC2282"/>, and the IETF-ISOC
 relationship <xref target="RFC2031"/>.
   </t>
-	
-<t>
- The Internet Society provides a corporate home for the
-   administrative entity that supports the Internet Engineering Task
-   Force (IETF), the Internet Architecture Board (IAB), and the Internet Research
-   Task Force (IRTF), and supports the work of these groups through a variety
-   of programs.
-</t>
 	
   <t>
 As time passed and operational experience accumulated, additional
