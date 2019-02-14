@@ -29,7 +29,7 @@
 <?rfc sortrefs="yes" ?>
 <?rfc compact="yes" ?>
 <?rfc subcompact="no" ?>
-<rfc category="info" docName="draft-ietf-iasa2-rfc2031bis-03" ipr="trust200902" obsoletes="2031">
+<rfc category="info" docName="draft-ietf-iasa2-rfc2031bis-04" ipr="trust200902" obsoletes="2031">
 
 <front>
 
@@ -51,7 +51,7 @@
 		</address>
 	  </author>
     
-<date month="January" year="2019" />
+<date month="February" year="2019" />
 
 <area>General</area>
 
@@ -360,6 +360,7 @@ replaces.
 	<t>-02: Fixed nits identified by Brian Carpenter on 12-21-2018, and text on the tax status from John Levine.</t>
 	<t>-03: As we entered IESG review, added a short description of what ISOC does (in relation to the IETF) 
 		that can be used in external material by both the IETF and ISOC.</t>
+	<t>-04: Clarification adding text to Section 6 on legal issue.</t>
 </section>
 
 </middle>
