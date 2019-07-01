@@ -51,7 +51,7 @@
 		</address>
 	  </author>
     
-<date month="February" year="2019" />
+<date month="July" year="2019" />
 
 <area>General</area>
 
@@ -200,7 +200,7 @@ policy experts an opportunity to interact directly with the IETF
 technical community. ISOC also performs technical work using the
 standards developed in the IETF as its basis. An example of that is
 ISOC's Deploy360 program, which helps encourage and support the
-deployment of critical new IETF standards like DNSSEC  <xref
+deployment of IETF standards like DNSSEC  <xref
 target="RFC4033"/> and IPv6  <xref
 target="RFC8200"/>.
   </t>
@@ -240,40 +240,15 @@ one of its main strengths.
 
 <section title="Legal Relationship with ISOC">
 
-  <t>
-The IETF LLC was created as a subsidiary of ISOC. Specifically, the
-IETF LLC is a single-member Limited Liability Company created in
-Delaware (USA) in August 2018.  The member (i.e., its legal owner) is
-ISOC. The IETF LLC is managed separately, makes a budget, can sign
-contracts, can pay and receive money, can sue and be sued, and has a
-board. ISOC operates as a U.S. 501(c)(3) not-for-profit organization,
-and was founded to support and promote the development of the Internet
-as a global technical infrastructure, a resource to enrich people's
-lives, and a force for good in society. The Limited Liability Company
-Agreement of IETF Administration LLC, dated August 27 2018, is the
-Operating Agreement <xref target="OpAgreement"/> that governs the
-relationship between the IETF LLC and ISOC (while this document is
-intended as a summary of the agreement, please note that only the
-agreement is authoritative).
-  </t>
-	
-  <t>
-The IETF LLC provides the IETF with a separate legal existence. The
-IETF LLC structure now covers (from a legal perspective) the IETF
-standards and IETF standards process, all IETF officers (IAB, IESG,
-Nomcom, and WG chairs), IETF employees and contractors, the RFC series
-and RFC editor, and all of the IETF's other business operations.
-  </t>
-	
 <t>
-For tax purposes, the IETF LLC is considered a part of ISOC, known
-as a "disregarded entity".  This means that the IETF LLC shares ISOC's
-tax exempt status as a not-for-profit charity, and contributions to
-the LLC are tax deductible under U.S. law as they would be if they
-were made to ISOC.
+The IETF LLC is a disregarded Limited Liability Company (LLC) of The Internet Society - 
+established to provide a corporate legal framework for facilitating current and 
+future activities related to the IETF, IAB, and IRTF.  It was established by the 
+ISOC/IETF LLC Agreement <xref target="OpAgreement"/> on August 27, 2018, and 
+governs the relationship between the IETF LLC and ISOC.
 </t>
-	
-  <t>
+		
+<t>
 The IETF Trust, documented in <xref target="RFC5378"/>, and updated in
 <xref target="I-D.ietf-iasa2-trust-rationale"/> and <xref
 target="I-D.ietf-iasa2-trust-update"/>, provides legal protection for
@@ -300,10 +275,10 @@ Under the terms of the Operating Agreement <xref
 target="OpAgreement"/> between ISOC and the IETF, ISOC has agreed to
 provide some funding support for the IETF (ISOC has historically
 provided the IETF with significant financial support).  In particular,
-among other things, the IETF LLC will be responsible for creating and
+among other things, the IETF LLC is responsible for creating and
 managing an annual operating budget for the IETF; for negotiating,
-signing, and overseeing contracts; for fund raising; for maintaining a
-bank account; and for liability insurance. The IETF LLC is managed by
+signing, and overseeing contracts; for fund raising; for maintaining
+bank accounts; and for liability insurance. The IETF LLC is managed by
 a board of directors, one of whom is appointed by the ISOC's board of
 trustees. The intention is that ISOC and the IETF LLC operate at arms
 length.
@@ -317,7 +292,7 @@ some of those services are provided by ISOC or involve ISOC staff.
   
   <t>
 Under the new IASA 2.0 structure, the IETF is solely responsible for
-its administration via the IETF LLC, IETF Trust, IAB, IESG, IETF
+its administration, including the IETF Trust, IAB, IESG, IETF
 working groups, and other IETF processes. A further exploration of
 this can be found in Section 4 of <xref
 target="I-D.ietf-iasa2-rfc4071bis"/>.
