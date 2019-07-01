@@ -29,7 +29,7 @@
 <?rfc sortrefs="yes" ?>
 <?rfc compact="yes" ?>
 <?rfc subcompact="no" ?>
-<rfc category="info" docName="draft-ietf-iasa2-rfc2031bis-04" ipr="trust200902" obsoletes="2031">
+<rfc category="info" docName="draft-ietf-iasa2-rfc2031bis-05" ipr="trust200902" obsoletes="2031">
 
 <front>
 
@@ -336,6 +336,7 @@ replaces.
 	<t>-03: As we entered IESG review, added a short description of what ISOC does (in relation to the IETF) 
 		that can be used in external material by both the IETF and ISOC.</t>
 	<t>-04: Clarification adding text to Section 6 on legal issue.</t>
+	<t>-05: Fix nits</t>
 </section>
 
 </middle>
