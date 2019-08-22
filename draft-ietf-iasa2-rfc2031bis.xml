@@ -4,11 +4,10 @@
 <!ENTITY RFC2026 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2026.xml">
 <!ENTITY RFC2028 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2028.xml">
 <!ENTITY RFC2031 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2031.xml">
-<!ENTITY BCP10 SYSTEM "https://www.rfc-editor.org/refs/ref-bcp10.txt">
 <!ENTITY RFC2850 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2850.xml">
 <!ENTITY RFC3677 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.3677.xml">
 <!ENTITY RFC4033 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.4033.xml">
-<!ENTITY RFC4071 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml3/reference.I-D.ietf-iasa2-rfc4071bis.xml">
+<!ENTITY RFC4071 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.4071.xml">
 <!ENTITY RFC4371 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.4371.xml">
 <!ENTITY RFC5378 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.5378.xml">
 <!ENTITY RFC6756 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.6756.xml">
@@ -115,7 +114,7 @@ these legal, administrative, and financial tasks on behalf of and in
 close cooperation with the IETF. This led to documenting things such
 as the IETF standards process <xref target="RFC2026"/>, the IETF
 organizational structure <xref target="RFC2028"/>, the IETF Nominating
-Committee (NomCom) procedures <xref target="BCP10"/>, and the IETF-ISOC
+Committee (NomCom) procedures <eref target="BCP10"/>, and the IETF-ISOC
 relationship <xref target="RFC2031"/>.
   </t>
 	
@@ -353,7 +352,6 @@ replaces.
         &RFC2026;
     	&RFC2028;
     	&RFC2031;
-   	&BCP10;
    	&RFC2850;	
 	&RFC3677;
 	&RFC4033;
@@ -366,6 +364,14 @@ replaces.
 	
 	&I-D.ietf-iasa2-trust-rationale;
         &I-D.ietf-iasa2-trust-update;
+	
+	<reference anchor="BCP10" target="https://www.rfc-editor.org/refs/ref-bcp10.txt">
+  		<front>
+    		<title>BCP10</title>
+    		<author/>
+    		<date/>
+  		</front>
+	</reference>
 	
 	<reference anchor="ISOC-Website" target="http://www.isoc.org/">
   		<front>
