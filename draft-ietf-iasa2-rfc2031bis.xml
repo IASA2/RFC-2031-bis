@@ -155,7 +155,7 @@ an important role in its policy work. ISOC has always been an advocate
 for multistakeholder processes, which include the technical
 community. Open standards are an explicit part of one of the focus
 areas in ISOC's mission: Advancing the development and application of
-Internet infrastructure, technologies, and open standards.
+Internet infrastructure, technologies, and open standards <eref target="http://www.isoc.org">ISOC Website</eref>.
    </t>
 
 </section>
@@ -343,11 +343,9 @@ replaces.
 
 <back>
 
-<!--
   <references title="Normative References">
-	
+	&I-D.ietf-iasa2-rfc4071bis;
   </references>
--->
 
 <references title="Informative References">
 
@@ -364,9 +362,17 @@ replaces.
 	&RFC6756;
 	&RFC7437;
 	&RFC8200;		
-	&I-D.ietf-iasa2-rfc4071bis;
+	
 	&I-D.ietf-iasa2-trust-rationale;
         &I-D.ietf-iasa2-trust-update;
+	
+	<reference anchor="ISOC-Website" target="http://www.isoc.org/">
+  		<front>
+    		<title>ISOC Website</title>
+    		<author/>
+    		<date/>
+  		</front>
+	</reference>
 
 
     <reference anchor='OpAgreement'>
