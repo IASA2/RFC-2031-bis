@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="US-ASCII"?>
 <!DOCTYPE rfc SYSTEM "rfc2629.dtd" [
 
-<!ENTITY RFC2026 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.2026.xml">
-<!ENTITY RFC2028 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.2028.xml">
-<!ENTITY RFC2031 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.2031.xml">
+<!ENTITY RFC2026 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2026.xml">
+<!ENTITY RFC2028 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2028.xml">
+<!ENTITY RFC2031 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2031.xml">
 <!ENTITY BCP10 SYSTEM "https://www.rfc-editor.org/refs/ref-bcp10.txt">
-<!ENTITY RFC2850 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.2850.xml">
-<!ENTITY RFC3677 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.3677.xml">
-<!ENTITY RFC4033 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.4033.xml">
-<!ENTITY RFC4071 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.4071.xml">
-<!ENTITY RFC4371 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.4371.xml">
-<!ENTITY RFC5378 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.5378.xml">
-<!ENTITY RFC6756 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.6756.xml">
-<!ENTITY RFC7437 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.7437.xml">
-<!ENTITY RFC8200 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.8200.xml">
+<!ENTITY RFC2850 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2850.xml">
+<!ENTITY RFC3677 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.3677.xml">
+<!ENTITY RFC4033 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.4033.xml">
+<!ENTITY RFC4071 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml3/reference.I-D.ietf-iasa2-rfc4071bis.xml">
+<!ENTITY RFC4371 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.4371.xml">
+<!ENTITY RFC5378 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.5378.xml">
+<!ENTITY RFC6756 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.6756.xml">
+<!ENTITY RFC7437 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.7437.xml">
+<!ENTITY RFC8200 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.8200.xml">
 <!ENTITY I-D.ietf-iasa2-rfc4071bis SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.ietf-iasa2-rfc4071bis.xml">
 <!ENTITY I-D.ietf-iasa2-trust-rationale SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.ietf-iasa2-trust-rationale.xml">
 <!ENTITY I-D.ietf-iasa2-trust-update SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.ietf-iasa2-trust-update.xml">
@@ -337,6 +337,7 @@ replaces.
 		that can be used in external material by both the IETF and ISOC.</t>
 	<t>-04: Clarification adding text to Section 6 on legal issue.</t>
 	<t>-05: Fix nits</t>
+	<t>-06: Fix nits and other changes from IESG review</t>
 </section>
 
 </middle>
