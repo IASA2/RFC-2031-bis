@@ -154,7 +154,7 @@ an important role in its policy work. ISOC has always been an advocate
 for multistakeholder processes, which include the technical
 community. Open standards are an explicit part of one of the focus
 areas in ISOC's mission: Advancing the development and application of
-Internet infrastructure, technologies, and open standards <eref target="https://www.internetsociety.org/mission/">ISOC Mission</eref>.
+Internet infrastructure, technologies, and open standards <eref target="ISOC-Mission">.
    </t>
 
 </section>
@@ -373,9 +373,9 @@ replaces.
   		</front>
 	</reference>
 	
-	<reference anchor="ISOC Mission" target="https://www.internetsociety.org/mission/">
+	<reference anchor="ISOC-Mission" target="https://www.internetsociety.org/mission/">
   		<front>
-    		<title>ISOC Website</title>
+    		<title>ISOC Mission</title>
     		<author/>
     		<date/>
   		</front>
