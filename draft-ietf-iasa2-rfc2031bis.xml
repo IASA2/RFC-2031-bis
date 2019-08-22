@@ -28,7 +28,7 @@
 <?rfc sortrefs="yes" ?>
 <?rfc compact="yes" ?>
 <?rfc subcompact="no" ?>
-<rfc category="info" docName="draft-ietf-iasa2-rfc2031bis-06" ipr="trust200902" obsoletes="2031">
+<rfc category="info" docName="draft-ietf-iasa2-rfc2031bis-07" ipr="trust200902" obsoletes="2031">
 
 <front>
 
@@ -150,8 +150,9 @@ level and replaces <xref target="RFC2031"/>.
   <t>
 ISOC and the IETF have historically been philosophically
 aligned. ISOC's connection with the IETF community has always played
-an important role in its policy work. ISOC has always been an advocate
-for multistakeholder processes, which include the technical
+an important role in its policy work, which has not changed. ISOC has always been and 
+	  continued to be an advocate
+for multistakeholder processes, which includes the technical
 community. Open standards are an explicit part of one of the focus
 areas in ISOC's mission: Advancing the development and application of
 Internet infrastructure, technologies, and open standards <eref target="ISOC-Mission"/>.
@@ -194,8 +195,8 @@ as other ITU-T Sector Members <xref target="RFC6756"/>.
   <t>
 ISOC also supports the IETF standards process more indirectly (e.g.,
 by promoting it in relevant communities) through several
-programmes. For example, ISOC's Policymakers Programme to the IETF
-(usually referred to simply as ISOC's policy fellows programme) gives
+programs. For example, ISOC's Policymakers Program to the IETF
+(usually referred to simply as ISOC's policy fellows program) gives
 policy experts an opportunity to interact directly with the IETF
 technical community. ISOC also performs technical work using the
 standards developed in the IETF as its basis. An example of that is
@@ -273,8 +274,8 @@ Trustees.
   <t>
 Under the terms of the Operating Agreement <xref
 target="OpAgreement"/> between ISOC and the IETF, ISOC has agreed to
-provide significant funding support for the IETF.  In particular,
-among other things, the IETF LLC is responsible for creating and
+provide significant funding support for the IETF.  In addition,
+the IETF LLC is responsible for creating and
 managing an annual operating budget for the IETF; for negotiating,
 signing, and overseeing contracts; for fundraising; for maintaining
 bank accounts; and for liability insurance. The IETF LLC is managed by
@@ -286,7 +287,7 @@ length.
   <t>	
 The IETF LLC establishes contracts with third parties to provide
 different types of services to the IETF. Note that it is possible that
-some of those services are provided by ISOC or involve ISOC staff.
+some of those services may be provided by ISOC or involve ISOC staff.
   </t>	
   
   <t>
