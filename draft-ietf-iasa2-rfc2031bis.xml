@@ -165,7 +165,7 @@ Internet infrastructure, technologies, and open standards <eref target="http://w
   <t>
 The IETF remains responsible for the development and quality of the
 Internet Standards. Apart from the roles described below, the IETF and
-ISOC acknowledge that ISOC has no influence whatsoever on the
+ISOC acknowledge that ISOC has no direct influence whatsoever on the
 technical content of Internet Standards.
   </t>
 
@@ -272,13 +272,12 @@ Trustees.
   <t>
 Under the terms of the Operating Agreement <xref
 target="OpAgreement"/> between ISOC and the IETF, ISOC has agreed to
-provide some funding support for the IETF (ISOC has historically
-provided the IETF with significant financial support).  In particular,
+provide significant funding support for the IETF.  In particular,
 among other things, the IETF LLC is responsible for creating and
 managing an annual operating budget for the IETF; for negotiating,
-signing, and overseeing contracts; for fund raising; for maintaining
+signing, and overseeing contracts; for fundraising; for maintaining
 bank accounts; and for liability insurance. The IETF LLC is managed by
-a board of directors, one of whom is appointed by the ISOC's Board of
+a Board of Directors, one of whom is appointed by the ISOC's Board of
 Trustees. The intention is that ISOC and the IETF LLC operate at arm's
 length.
   </t>  
@@ -382,7 +381,7 @@ replaces.
 	</reference>
 
 
-    <reference anchor='OpAgreement'>
+    <reference anchor='OpAgreement' target="https://www.ietf.org/documents/180/IETF-LLC-Agreement.pdf">
        <front> 
          <title abbrev='Operating Agreement'>Limited Liability Company
 Agreement of IETF Administration LLC</title>
