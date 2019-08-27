@@ -28,7 +28,7 @@
 <?rfc sortrefs="yes" ?>
 <?rfc compact="yes" ?>
 <?rfc subcompact="no" ?>
-<rfc category="info" docName="draft-ietf-iasa2-rfc2031bis-07" ipr="trust200902" obsoletes="2031">
+<rfc category="info" docName="draft-ietf-iasa2-rfc2031bis-08" ipr="trust200902" obsoletes="2031">
 
 <front>
 
@@ -151,7 +151,7 @@ level and replaces <xref target="RFC2031"/>.
 ISOC and the IETF have historically been philosophically
 aligned. ISOC's connection with the IETF community has always played
 an important role in its policy work, which has not changed. ISOC has always been and 
-	  continued to be an advocate
+	  continues to be an advocate
 for multistakeholder processes, which includes the technical
 community. Open standards are an explicit part of one of the focus
 areas in ISOC's mission: Advancing the development and application of
@@ -168,7 +168,7 @@ The IETF remains responsible for the development and quality of the
 Internet Standards. Apart from the roles described below, the IETF and
 ISOC acknowledge that ISOC as an organization has no direct influence whatsoever on the
 technical content of Internet Standards (though ISOC employees may independently continue to 
-make technical contributuins as individuals).
+make technical contributions as individuals).
   </t>
 
     </section>
@@ -339,6 +339,7 @@ replaces.
 	<t>-05: Fix nits</t>
 	<t>-06: Fix nits and other changes from IESG review</t>
 	<t>-07: Fixed one missed nit from IESG review</t>
+	<t>-08: Fixed two typographical errors</t>
 </section>
 
 </middle>
