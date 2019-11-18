@@ -6,13 +6,11 @@
 <!ENTITY RFC2031 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2031.xml">
 <!ENTITY RFC2850 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.2850.xml">
 <!ENTITY RFC3677 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.3677.xml">
-<!ENTITY RFC4033 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.4033.xml">
 <!ENTITY RFC4071 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.4071.xml">
 <!ENTITY RFC4371 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.4371.xml">
 <!ENTITY RFC5378 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.5378.xml">
 <!ENTITY RFC6756 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.6756.xml">
 <!ENTITY RFC7437 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.7437.xml">
-<!ENTITY RFC8200 SYSTEM "https://xml2rfc.tools.ietf.org/public/rfc/bibxml/reference.RFC.8200.xml">
 <!ENTITY I-D.ietf-iasa2-rfc4071bis SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.ietf-iasa2-rfc4071bis.xml">
 <!ENTITY I-D.ietf-iasa2-trust-rationale SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.ietf-iasa2-trust-rationale.xml">
 <!ENTITY I-D.ietf-iasa2-trust-update SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.ietf-iasa2-trust-update.xml">
@@ -58,7 +56,7 @@
 
 <abstract>
   <t>
-This document summarises the Internet Engineering Task Force (IETF) -
+This document summarizes the Internet Engineering Task Force (IETF) -
 Internet Society (ISOC) relationship, following a major revision to
 the structure of the IETF Administrative Support Activity (IASA) in
 2018. The IASA was revised under a new "IASA 2.0" structure by the
@@ -103,7 +101,7 @@ unavoidable part of the IETF. To address these issues in 1995 the IETF
 established the Poised95 Working Group. Its goal was to structure and
 document the IETF processes in order to maximize the flexibility and
 freedom of IETF engineers so that they could work in the way the IETF
-had always been most successful and to honour the IETF credo: "Rough
+had always been most successful and to honor the IETF credo: "Rough
 consensus and running code".
   </t>
 	
@@ -114,7 +112,7 @@ these legal, administrative, and financial tasks on behalf of and in
 close cooperation with the IETF. This led to documenting things such
 as the IETF standards process <xref target="RFC2026"/>, the IETF
 organizational structure <xref target="RFC2028"/>, the IETF Nominating
-Committee (NomCom) procedures <eref target="BCP10"/>, and the IETF-ISOC
+Committee (NomCom) procedures <xref target="BCP10"/>, and the IETF-ISOC
 relationship <xref target="RFC2031"/>.
   </t>
 	
@@ -138,7 +136,7 @@ as a subsidiary of ISOC.
 As a result of the IASA 2.0 structure <xref
 target="I-D.ietf-iasa2-rfc4071bis"/> and formation of the IETF LLC, the
 relationship between the IETF and ISOC has changed. This document
-summarises the current state of the IETF-ISOC relationship at a high
+summarizes the current state of the IETF-ISOC relationship at a high
 level and replaces <xref target="RFC2031"/>.
   </t>
 	
@@ -155,7 +153,7 @@ an important role in its policy work, which has not changed. ISOC has always bee
 for multistakeholder processes, which includes the technical
 community. Open standards are an explicit part of one of the focus
 areas in ISOC's mission: Advancing the development and application of
-Internet infrastructure, technologies, and open standards <eref target="ISOC-Mission"/>.
+Internet infrastructure, technologies, and open standards <xref target="ISOC-Mission"/>.
    </t>
 
 </section>
@@ -338,7 +336,7 @@ replaces.
 	<t>-06: Fix nits and other changes from IESG review</t>
 	<t>-07: Fixed one missed nit from IESG review</t>
 	<t>-08: Fixed two typographical errors</t>
-	<t>-09: One minor change from final ISOC review</t>
+	<t>-09: One minor change from final ISOC review, spelling changes from British English to US English</t>
 </section>
 
 </middle>
@@ -356,13 +354,11 @@ replaces.
     	&RFC2031;
    	&RFC2850;	
 	&RFC3677;
-	&RFC4033;
 	&RFC4071;
 	&RFC4371;
 	&RFC5378;	
 	&RFC6756;
 	&RFC7437;
-	&RFC8200;		
 	
 	&I-D.ietf-iasa2-trust-rationale;
         &I-D.ietf-iasa2-trust-update;
